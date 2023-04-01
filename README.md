@@ -1,4 +1,4 @@
-# COMPAS analysis in Python
+# COMPAS and DI analysis in Python
 This repo was created to repeat the Propublica and Disparate Impact analysis in Python. 
 
 For more detailed information about the COMPAS dataset and the derivations, check out the [Propublica repo](http://sidn.csail.mit.edu/).
